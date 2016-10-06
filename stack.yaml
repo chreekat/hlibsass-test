@@ -1,0 +1,5 @@
+resolver: lts-6.17
+packages:
+- '.'
+extra-deps:
+- hlibsass-0.1.5.0
